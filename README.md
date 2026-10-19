@@ -23,7 +23,7 @@ A lightweight, high-performance **ESP32 Web Server** application written in C++ 
 
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com
+   git clone https://github.com/runnerspeed80-dotcom/esp32-wifi-led-controller.git
    ```
 
 2. **Open the sketch:**
