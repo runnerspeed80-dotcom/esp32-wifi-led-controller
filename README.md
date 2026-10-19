@@ -51,7 +51,7 @@ This project was built, wired, and tested physically (not simulated).
    * `/led/off` -> Toggles `digitalWrite(2, LOW)` to ground the anode loop.
 
 ---
-
+![Circuit Wiring Diagram](circuit.png)
 ## 📈 Real-World Challenges Encounetered & Debugging Log
 
 Building real hardware involves tackling unpredictabilities that simulators hide. During this physical deployment, I addressed the following engineering hurdles:
